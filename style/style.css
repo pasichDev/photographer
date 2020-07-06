@@ -180,7 +180,7 @@ p.lower {
 
 .wide-wrapper {
   width: 100%;
-  background: url("/img/phot/b_1.jpg") no-repeat 50% 50%/cover;
+  background: url("../img/phot/b_1.jpg") no-repeat 50% 50%/cover;
   height: 100vh;
   display: -webkit-box;
   display: -ms-flexbox;
